@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: clrnet
+Version: 1.0
+Keywords: computer vision & lane detection
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+License-File: LICENSE

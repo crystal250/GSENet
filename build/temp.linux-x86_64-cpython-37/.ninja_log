@@ -1,0 +1,9 @@
+# ninja log v5
+0	6576	1682268360289186958	/home/jh-su/CLRNET/CLRNet-main/build/temp.linux-x86_64-cpython-37/clrnet/ops/csrc/nms.o	cb3bae3d91262cc2
+0	12475	1682268366188134969	/home/jh-su/CLRNET/CLRNet-main/build/temp.linux-x86_64-cpython-37/clrnet/ops/csrc/nms_kernel.o	297a3a379e46eae6
+1	6330	1682269365593986985	/home/jh-su/CLRNET/CLRNet-main/build/temp.linux-x86_64-cpython-37/clrnet/ops/csrc/nms.o	b8eacee6c03f2e31
+1	12088	1682269371352865548	/home/jh-su/CLRNET/CLRNet-main/build/temp.linux-x86_64-cpython-37/clrnet/ops/csrc/nms_kernel.o	45066ed8dd5e1b81
+3	8978	1683952746401577474	/home/jh-su/CLRNET/CLRNet-main/build/temp.linux-x86_64-cpython-37/clrnet/ops/csrc/nms.o	cb3bae3d91262cc2
+3	20561	1683952757990494343	/home/jh-su/CLRNET/CLRNet-main/build/temp.linux-x86_64-cpython-37/clrnet/ops/csrc/nms_kernel.o	919d59e5f0977394
+3	8905	1683952767143216739	/home/jh-su/CLRNET/CLRNet-main/build/temp.linux-x86_64-cpython-37/clrnet/ops/csrc/nms.o	b8eacee6c03f2e31
+4	19888	1683952778128082040	/home/jh-su/CLRNET/CLRNet-main/build/temp.linux-x86_64-cpython-37/clrnet/ops/csrc/nms_kernel.o	2fa9a12142244bfa
