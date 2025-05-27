@@ -76,7 +76,7 @@ def gline_iou(pred, target, img_w, img_h,length=15, aligned=True):
     iou = (ovr.sum(dim=-1).cuda() / (union.sum(dim=-1).cuda() + 1e-9))
     G = G.mean(dim = -1)
     giou = iou
-    return giou
+    return giou - 0.1 * G
 
 
 def gliou_loss(pred, target, img_w,img_h, length=15):
